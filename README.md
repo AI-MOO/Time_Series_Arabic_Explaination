@@ -2,9 +2,9 @@
 
 | Sr. No | Chapter                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
-| 01.     | [Exploratory Data Analysis for Machine Learning]()|✅|
-| 02.     | [Supervised Machine Learning: Regression]()|✅| 
-| 03.     | [Supervised Machine Learning: Classification]()|✅|
-| 04.     | [Unsupervised Machine Learning]()|✅|
-| 05.     | [Deep Learning and Reinforcement Learning]()|✅| 
-| 06.     | [Specialized Models: Time Series and Survival Analysis]()|⏳|
+| 01.     | [نظرة عامة عن السلاسل الزمنية]()|✅|
+| 02.     | [التعامل مع السلاسل الزمنية باستخدام بايثون]()|⏳| 
+| 03.     | []()||
+| 04.     | []()||
+| 05.     | []()|| 
+| 06.     | []()||s
