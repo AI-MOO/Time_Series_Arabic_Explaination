@@ -1,6 +1,5 @@
 # Time Series Explaination in Arabic | شرح السلاسل الزمنية باللغة العربية
 
-
 | Sr. No | Chapter                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
 | 01.     | [Exploratory Data Analysis for Machine Learning]()|✅|
