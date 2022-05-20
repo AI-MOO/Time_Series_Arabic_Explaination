@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height="200" src="images/background.png">  
+<img height="350" src="images/background.png">  
 
 
 | Sr. No | Chapter                                                               |Status|
