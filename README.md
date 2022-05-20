@@ -1,5 +1,7 @@
 # Time Series Explaination in Arabic | شرح السلاسل الزمنية باللغة العربية
 
+<p align="center">
+
 | Sr. No | Chapter                                                               |Status|
 |:------:|----------------------------------------------------------------------------|:--:|
 | 01.     | [نظرة عامة على السلاسل الزمنية](https://github.com/AI-MOO/Time_Series_Arabic_Explaination/blob/master/Slides/Chapter_01.pdf)|✅|
@@ -9,5 +11,8 @@
 | 05.     | [الارتباط التلقائي والارتباط التلقائي الجزئي]()||
 | 06.     | [الأتمتة واختبارات الثبات]()||
 
+</p>
 
+<p align="center">
 <img height="400" src="images/background.png">  
+</p>
