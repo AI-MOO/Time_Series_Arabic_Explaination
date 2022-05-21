@@ -2,7 +2,6 @@
 
 <div align="center">
 
-<img height="350" src="images/background.png">  
 
 
 | Sr. No | Chapter                                                               |Status|
@@ -14,6 +13,7 @@
 | 05.     | [الارتباط التلقائي والارتباط التلقائي الجزئي]()||
 | 06.     | [الأتمتة واختبارات الثبات]()||
 
+<img height="350" src="images/background.png">  
 
 </div>
 
